@@ -4,12 +4,7 @@ A professional academic web interface for managing cybercrime investigation case
 
 ## 🌐 Live Demo
 
-After publishing this project with **GitHub Pages**, your live website will be available at:
-
-`https://YOUR-GITHUB-USERNAME.github.io/cybercrime-investigation-system/`
-
-> Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
-
+https://sunkarasavithri19.github.io/cyberinvestigation-landpage/
 ## 📌 Project Overview
 
 The **Cybercrime Investigation & Evidence Management System** is designed to help authorized investigators organize cybercrime cases and maintain digital evidence records throughout an investigation.
